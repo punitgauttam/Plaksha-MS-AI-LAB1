@@ -1,0 +1,2 @@
+# Plaksha-MS-AI-LAB1
+LAB 1 PYTHON
